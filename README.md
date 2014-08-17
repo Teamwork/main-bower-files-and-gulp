@@ -9,8 +9,8 @@ Prerequisites: [Node.js](http://nodejs.org/), [Bower](http://bower.io) & [Gulp](
 
 You'll need to run these commands one time to set up the project ready:
 
-1. `npm install`. This will install the `devDependencies` in `package.json` into `node_modules`.
-2. `bower install`. This will install the `dependencies` in `bower.json` into `app/third-party`.
+1. `npm install`. This will install the `devDependencies` in `package.json` into the `node_modules` directory.
+2. `bower install`. This will install the `dependencies` in `bower.json` into the `app/third-party` directory.
 
 # Preprocess the third-party dependencies
 
