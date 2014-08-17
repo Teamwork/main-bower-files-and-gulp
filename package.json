@@ -1,0 +1,24 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "description": "Example",
+  "main": "app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Teamwork/main-bower-files-and-gulp.git"
+  },
+  "author": "Adam Lynch <adam@teamwork.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Teamwork/main-bower-files-and-gulp/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.7",
+    "gulp-concat": "~2.3.4",
+    "gulp-filter": "~1.0.0",
+    "main-bower-files": "~1.0.2"
+  }
+}
