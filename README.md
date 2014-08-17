@@ -12,7 +12,7 @@ You'll need to run these commands one time to set up the project ready:
 1. `npm install`. This will install the `devDependencies` in `package.json` into the `node_modules` directory.
 2. `bower install`. This will install the `dependencies` in `bower.json` into the `app/third-party` directory.
 
-# Preprocess the third-party dependencies
+# Preprocess the dependencies
 
 Run this initially and anytime after you add / remove / update a Bower dependency:
 
