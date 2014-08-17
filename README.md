@@ -1,4 +1,4 @@
-Hassle-free third-party dependencies with Bower and Gulp
+Hassle-free third-party dependencies
 =========================                               
 
 This repository was created for the [Hassle-free third-party dependencies](http://engineroom.teamwork.com/hassle-free-third-party-dependencies) blog post on [engineroom.teamwork.com](http://engineroom.teamwork.com).
