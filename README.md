@@ -18,3 +18,11 @@ Run this initially and anytime after you add / remove / update a Bower dependenc
 
 1. `gulp`. This will generate `app/third-party.css` and `app/third-party.js`.
 2. Open / reload `app/index.html`
+
+> It could simplified even more, for example:
+
+>- Add a Gulp task to watch the `bower.json` for changes, then recompile the `third-party` files and reload the page.
+- Combine our own `style.css` and `main.js` with `third-party.css` and `third-party.js` so we'd only have to load one CSS and one JavaScript file.
+- Add source maps.
+
+>But I'll leave that up to you :)
