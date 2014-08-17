@@ -21,6 +21,8 @@ Run this initially and anytime after you add / remove / update a Bower dependenc
 
 ### Further simplifications
 
+From the [article](http://engineroom.teamwork.com/hassle-free-third-party-dependencies):
+
 > It could simplified even more, for example:
 
 >- Add a Gulp task to watch the `bower.json` for changes, then recompile the `third-party` files and reload the page.
