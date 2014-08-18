@@ -23,7 +23,7 @@ Run this initially and anytime after you add / remove / update a Bower dependenc
 
 From the [article](http://engineroom.teamwork.com/hassle-free-third-party-dependencies):
 
-> It could simplified even more, for example:
+> It could be simplified even more, for example:
 
 >- Add a Gulp task to watch the `bower.json` for changes, then recompile the `third-party` files and reload the page.
 - Combine our own `style.css` and `main.js` with `third-party.css` and `third-party.js` so we'd only have to load one CSS and one JavaScript file.
